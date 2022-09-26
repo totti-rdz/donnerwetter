@@ -1,5 +1,5 @@
 {
-  "name": "solito-with-tailwind",
+  "name": "donnerwetter",
   "private": true,
   "workspaces": [
     "apps/*",
